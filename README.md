@@ -1,1 +1,1 @@
-# power-bi-Project-02--Bank-customer-churn-analysis
+# power-bi-Project-02-Bank-customer-churn-analysis
